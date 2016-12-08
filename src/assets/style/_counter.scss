@@ -1,0 +1,26 @@
+.counter{
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  top:calc(50% - 100px);
+  right:calc(50% - 300px);
+  font-size: 0;
+  border: 4px solid #fff;
+}
+
+.days, .hours, .minutes, .seconds{
+  font-size: 25px;
+  display: inline-block;
+  width: 20%;
+  height: 100%;
+  margin-left: 4%;
+  color: #000;
+  text-align: center;
+  font-weight: bold;
+  line-height: 100px;
+  color: #fff;
+}
+
+.text{
+
+}
